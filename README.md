@@ -22,4 +22,35 @@ Anitha
 
 The output string is Aahint
 
+ 2)Pattern 20
+
+Write a program to print the given pattern.
+
  
+
+Input Format:
+
+Input consists of a single integer.
+
+ 
+
+Output Format:
+
+Refer sample output. There is a trailing space at the end of each line.
+
+ 
+
+Sample Input:
+
+4
+
+ 
+
+Sample Output:
+
+1 
+1 2 3 
+1 2 3 4 5 
+1 2 3 4 5 6 7 
+
+3)
