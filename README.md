@@ -1,8 +1,6 @@
-# Ebox-Patterns-StringsString Sorting
+# Ebox-Patterns-Strings String Sorting
 
-Write a program to sort a string in alphabetical order.
-
- 
+1) Write a program to sort a string in alphabetical order.
 
 Input and Output Format:
 
@@ -12,7 +10,6 @@ Refer sample input and output for formatting specifications.
 
 All text in bold corresponds to input and the rest corresponds to output.
 
- 
 
 Sample Input and Output:
 
@@ -22,7 +19,7 @@ Anitha
 
 The output string is Aahint
 
- 2)Pattern 20
+ 2)  Pattern 20
 
 Write a program to print the given pattern.
 
